@@ -1,3 +1,3 @@
 # mypro
 
-rimo commit
+primo commit
